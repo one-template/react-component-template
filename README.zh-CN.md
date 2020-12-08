@@ -21,13 +21,13 @@
 │   └── template.tsx       组件实现代码
 ├── tests                  组件测试代码
 │   ├── __snapshots__      快照测试文件输出，不需手动修改
-│   ├── setup.ts           jest 初始化脚本
+│   ├── setup.ts           `jest` 初始化脚本
 │   └── index.spec.tsx     测试文件
-├── .eslintrc.js           eslint 配置
-├── .fatherrc.ts           father 配置
-├── .umirc.ts              dumi 配置
-├── jest.config.js         jest 配置
-└── tsconfig.json          typescript 配置
+├── .eslintrc.js           `eslint` 配置
+├── .fatherrc.ts           `father` 配置
+├── .umirc.ts              `dumi` 配置
+├── jest.config.js         `jest` 配置
+└── tsconfig.json          `typescript` 配置
 ```
 
 其余文件可自行查阅了解。

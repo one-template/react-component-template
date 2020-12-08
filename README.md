@@ -21,20 +21,20 @@ English | [简体中文](./README.zh-CN.md)
 │   └── template.tsx       Component implementation code
 ├── tests                  Component test code
 │   ├── __snapshots__      Snapshot test file output without manual modification
-│   ├── setup.ts           jest init script
+│   ├── setup.ts           `jest` init script
 │   └── index.spec.tsx     Test file
-├── .eslintrc.js           eslint config
-├── .fatherrc.ts           father config
-├── .umirc.ts              dumi config
-├── jest.config.js         jest config
-└── tsconfig.json          typescript config
+├── .eslintrc.js           `eslint` config
+├── .fatherrc.ts           `father` config
+├── .umirc.ts              `dumi` config
+├── jest.config.js         `jest` config
+└── tsconfig.json          `typescript` config
 ```
 
 The rest of the documents can be consulted by yourself.
 
 ## 🤖 Command introduction
 
-| 名称                     | 描述                     | 备注                                                                                                               |
+| Name                     | Description              | Remarks                                                                                                            |
 | ------------------------ | ------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | `npm run start`          | Component development    | Document usage [dumi](https://github.com/umijs/dumi), component development and documentation development together |
 | `npm run test`           | Component test           | -                                                                                                                  |
