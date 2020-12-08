@@ -21,7 +21,7 @@ English | [简体中文](./README.zh-CN.md)
 │   └── template.tsx       Component implementation code
 ├── tests                  Component test code
 │   ├── __snapshots__      Snapshot test file output without manual modification
-│   ├── setup.ts           Init jest script
+│   ├── setup.ts           Init jest script
 │   └── index.spec.tsx     Test file
 ├── .eslintrc.js           eslint config
 ├── .fatherrc.ts           father config
