@@ -104,6 +104,7 @@ https://one-template.github.io/react-component-template/
 
 ## 🎈 Aide
 
+- [Quickly modify the project name](./rename.ts)
 - [Issue template](https://github.com/one-template/issue-template)
 - [PR template](https://github.com/one-template/pr-template)
 - [Actions use](https://github.com/github-actions-workflows/.github)
