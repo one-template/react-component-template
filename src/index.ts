@@ -1,4 +1,4 @@
-import Temp, { TempProps } from './template';
+import Temp, { TempProps } from './app';
 
 export { TempProps };
 export default Temp;
