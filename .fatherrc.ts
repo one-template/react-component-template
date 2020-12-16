@@ -1,4 +1,10 @@
+// https://github.com/umijs/father
+
 export default {
-  esm: 'rollup',
+  esm: {
+    type: 'rollup',
+    importLibToEs: true,
+  },
   cjs: 'rollup',
+  runtimeHelpers: true,
 };

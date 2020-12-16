@@ -111,7 +111,8 @@ https://one-template.github.io/react-component-template/
 
 ## 🎉 Who are using？
 
-- [react-image-shadow](https://github.com/image-tool/react-image-shadow)
+- [image-component/react-image-shadow](https://github.com/image-component/react-image-shadow)
+- [image-component/react-image-dangling](https://github.com/image-component/react-image-dangling)
 
 ## License
 
