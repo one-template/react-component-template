@@ -1,5 +1,5 @@
 ---
-title: Component Template
+title: 🌈  Component Template
 ---
 
 <embed src="../README.md"></embed>
