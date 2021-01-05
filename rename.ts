@@ -69,11 +69,14 @@ if (re_src) {
   indexTS = indexTS.replace(/TempProps/g, componentProps);
   writeFileSync('./src/index.ts', indexTS);
 
-  let appTSX = readFileSync('./src/app.tsx', { encoding: 'utf8', flag: 'r' });
+  let appTSX = readFileSync('./src/template.tsx', {
+    encoding: 'utf8',
+    flag: 'r',
+  });
   appTSX = appTSX.replace(/Temp/g, componentTag);
   appTSX = appTSX.replace(/TempProps/g, componentProps);
-  writeFileSync('./src/app.tsx', appTSX);
-  console.log('Done src!');
+  writeFileSync('./src/template.tsx', appTSX);
+  console.log('Done template!');
 }
 
 // Rename tests
