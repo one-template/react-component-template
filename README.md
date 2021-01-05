@@ -113,6 +113,7 @@ https://one-template.github.io/react-component-template/
 
 - [image-component/react-image-shadow](https://github.com/image-component/react-image-shadow)
 - [image-component/react-image-dangling](https://github.com/image-component/react-image-dangling)
+- [image-component/react-image-follow](https://github.com/image-component/react-image-follow)
 
 ## License
 
