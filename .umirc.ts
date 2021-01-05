@@ -13,4 +13,17 @@ export default defineConfig({
   base: `/${name}/`,
   publicPath: `/${name}/`,
   hash: true,
+  styles: [
+    `
+      html {
+        scroll-behavior: smooth;
+      }
+      .markdown table {
+        width: auto !important;
+      }
+      .markdown table td:first-child {
+        font-weight: normal !important;
+      }
+    `,
+  ],
 });
